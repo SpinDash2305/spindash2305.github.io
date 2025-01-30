@@ -1,2 +1,3 @@
 # spindash2305.github.io
-website
+this is a placeholder for the website
+plz ignore
